@@ -1,0 +1,26 @@
+_repo: Spanish-Composition_38124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38124-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Broomhall, Edith J.
+    gutenberg_agent_id: '39272'
+    url: http://www.gutenberg.org/2009/agents/39272
+description: ''
+gutenberg_issued: '2011-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38124'
+  lccn: '21004425'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish language -- Composition and exercises'
+- !lcc 'PC'
+- !lcsh 'Spanish language -- Grammar'
+title: Spanish Composition
+url: http://www.gutenberg.org/ebooks/38124
